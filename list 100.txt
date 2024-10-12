@@ -1,0 +1,137 @@
+Sorting pair<int,int>a
+
+/*
+int compare(pair<int,int>a,pair<int,int>b){
+    if(a.first!=b.first){
+        return a.first>b.first;
+    }
+    else{
+        return a.second>b.second;
+    }
+}
+*/
+
+ Array:
+1. Two Sum
+2. Container With Most Water (D)
+3. Best Time to Buy and Sell Stock (D)
+4. Product of Array Except Self(D)
+5. Maximum Subarray(D) kadane algo ,... max_so_far , cur_max
+6. Merge Intervals (D)
+7. Rotate Array(D)
+8. Combination Sum
+9. Missing Number(D)
+10. Find All Numbers Disappeared in an Array(D)
+
+Recursion 
+1.Pow(x, n) Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
+
+
+String:
+1. Reverse String(D)
+2. Valid Anagram(D)
+3. Longest Palindromic Substring
+4. Group Anagrams
+5. Valid Parentheses(D)
+6. Longest Common Prefix(D)
+7. String to Integer (atoi)(D)
+8. Palindrome Permutation
+9. Longest Substring Without Repeating Characters(D)
+10. ZigZag Conversion
+
+Linked List:
+1. Reverse Linked List(D)
+2. Merge Two Sorted Lists(D)
+3. Add Two Numbers (D)
+4. Remove Nth Node From End of List(D)
+5. Intersection of Two Linked Lists(D)
+6. Linked List Cycle(D)
+7. Palindrome Linked List(D)
+8. Flatten a Multilevel Doubly Linked List
+9. Copy List with Random Pointer
+10. LRU Cache
+
+Binary Tree:
+1. Maximum Depth of Binary Tree(D)
+2. Invert Binary Tree(D)
+3. Symmetric Tree(D)
+4. Construct Binary Tree from Preorder and Inorder Traversal(D)
+5. Validate Binary Search Tree
+6. Lowest Common Ancestor of a Binary Tree(D)
+7. Binary Tree Level Order Traversal(D)
+8. Path Sum(D)
+9. Binary Tree Zigzag Level Order Traversal(D)
+10. Flatten Binary Tree to Linked List
+
+Dynamic Programming:
+1. Climbing Stairs(D)
+2. Coin Change(D) (IMP)
+3. Longest Increasing Subsequence
+4. Maximum Subarray(D)
+5. Unique Paths(D)
+6. Edit Distance(D)
+7. House Robber(D)
+8. Longest Palindromic Subsequence(D)
+9. Word Break(D)
+10. Best Time to Buy and Sell Stock(D)
+
+Graph:
+1. Course Schedule
+2. Number of Islands
+3. Word Ladder
+4. Clone Graph
+5. Minimum Spanning Tree
+6. Network Delay Time
+7. Pacific Atlantic Water Flow
+8. Word Search
+9. Alien Dictionary
+10. Graph Valid Tree
+
+Backtracking:
+1. Permutations(D)
+2. Subsets(D)
+3. Letter Combinations of a Phone Number(D)
+4. Palindrome Partitioning
+5. Word Search
+6. Combination Sum(D)
+7. N-Queens
+8. Generate Parentheses
+9. Sudoku Solver
+10. Restore IP Addresses
+
+Sorting and Searching:
+1. Merge Intervals(D)
+2. Find First and Last Position of Element in Sorted Array(D)
+3. Search in Rotated Sorted Array(D)
+4. Find Peak Element(D)
+5. Kth Largest Element in an Array(D)
+6. Median of Two Sorted Arrays (D) *
+7. Search a 2D Matrix(D)
+8. Merge k Sorted Lists(D)
+9. Count of Smaller Numbers After Self (mergesort topic)
+10. Find Minimum in Rotated Sorted Array(D) *
+
+Stack and Queue:
+1. Valid Parentheses(D) , 22. Generate Parentheses(D)
+2. Min Stack
+3. Implement Queue using Stacks(D)
+4. Evaluate Reverse Polish Notation(D)
+5. Sliding Window Maximum (A)
+6. Implement Stack using Queues
+7. Design Circular Queue(D)
+8. Largest Rectangle in Histogram (D)
+9. Design Snake Game
+10. Simplify Path (D)
+
+Greedy:
+1. Jump Game (D)
+2. Container With Most Water(D)
+3. Non-overlapping Intervals(D)
+4. Partition Labels(D)
+5. Minimum Number of Arrows to Burst Balloons(D)
+6. Task Scheduler(D)
+7. Lemonade Change(D)
+8. Queue Reconstruction by Height
+9. Gas Station(D)
+10. Meeting Rooms II
